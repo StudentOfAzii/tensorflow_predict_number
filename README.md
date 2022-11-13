@@ -1,4 +1,4 @@
-# predict_number
+# tensorflow_predict_number
 This project predicts number <br />
 1.png --> Script predicts it as 1, because of the straight line in picture <br />
 2.png --> Script predicts it as 2, because it looks like the handwriting of 2 and down side may help it in prediction <br />
